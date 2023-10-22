@@ -1,0 +1,8 @@
+apollo:
+    modes:
+        light:
+            primary-background-color: 'rgba(250, 250, 250, 1)'
+            card-background-color: 'rgba(230, 230, 230, 1)'
+        dark: 
+            primary-background-color: 'rgba(13, 15, 21, 1)'
+            card-background-color: 'rgba(0, 0, 0, 1)'
